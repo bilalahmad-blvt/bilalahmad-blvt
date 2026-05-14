@@ -1,3 +1,6 @@
+
+<img width="1983" height="793" alt="ChatGPT Image May 14, 2026, 09_43_22 PM" src="https://github.com/user-attachments/assets/69720b1a-5aea-4fb7-9731-e2ca8d04cc19" />
+
 # 💫 About Me:
 🔭 Currently building scalable AI-powered analytics systems, intelligent dashboards, and modern full-stack applications focused on real-world business use cases.<br><br>👯 Open to collaborating on high-impact Open Source projects related to AI, data platforms, developer tools, and scalable web architectures.<br><br>🤝 Interested in connecting with developers and teams working on Generative AI, system design, backend engineering, and product-focused technologies.<br><br>🌱 Continuously exploring advanced concepts in Generative AI, distributed systems, cloud infrastructure, and production-grade application architecture.<br><br>💬 Ask me about Next.js, React, Node.js, AI-integrated products, dashboard engineering, data analytics, Git workflows, and modern web development.<br><br>⚡ Passionate about building technology that combines clean user experience with intelligent automation and business value.<br>
 
